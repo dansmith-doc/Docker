@@ -1,2 +1,2 @@
 # Docker
-A collection of docker files and setup configurations
+A collection of docker notes and setup configurations
